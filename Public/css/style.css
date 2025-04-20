@@ -1,4 +1,3 @@
-/* Reset & base styles */
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +8,6 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  /* background: linear-gradient(to right, #e0f7fa, #fff); */
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -17,7 +15,6 @@ html, body {
   overflow: hidden;
 }
 
-/* Header styling */
 header {
   width: 100%;
   text-align: center;
@@ -29,17 +26,15 @@ header {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Responsive map container */
 #map {
-  width: 90vw;        /* 90% of the viewport width */
-  height: 70vh;       /* 70% of the viewport height */
+  width: 90vw;        
+  height: 70vh;       
   margin-top: 1.5rem;
   border: 2px solid white;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
-/* Tooltip label styling */
 .block-label {
   font-size: 10px;
   font-weight: bold;
