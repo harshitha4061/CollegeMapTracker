@@ -19,6 +19,3 @@
 - **Backend:** Node.js, Express.js  
 - **Real-Time Communication:** Socket.IO  
 - **Map Library:** Leaflet.js  
-- **Deployment:** Render  
-
----
