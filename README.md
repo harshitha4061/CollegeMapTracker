@@ -9,8 +9,6 @@
 - **Leaflet.js** integration for responsive, interactive campus maps  
 - Real-time updates of user locations on the map
 - Building markers and tooltips for easy campus navigation  
-- Fully deployed and accessible online via **Render**
-- 
 
 ## Technologies Used  
 - **Frontend:** HTML, CSS, JavaScript  
