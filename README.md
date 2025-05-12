@@ -1,7 +1,7 @@
 # College Map Tracker
 
 ## Project Description  
-**College Map Tracker** is a real-time, web-based location tracking system designed for **CBIT College**. It allows users to navigate the campus using an interactive map, track their live location, and view others in real time. This helps students and visitors avoid getting lost and identify nearby buildings quickly.
+**College Map Tracker** is a real-time, web-based location tracking system designed for **CBIT College**. It allows users to navigate the campus using an interactive map and track their live location. This helps students and visitors avoid getting lost and identify nearby buildings quickly.
 
 
 ## Features  
